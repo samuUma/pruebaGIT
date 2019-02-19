@@ -11,7 +11,7 @@ public class PrimerIDE {
 		// TODO Auto-generated method stub
 		JFrame frame = new JFrame("FrameDemo");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		JLabel emptyLabel= new JLabel("hola que tal");
+		JLabel emptyLabel= new JLabel("prueba de GIT");
 		frame.getContentPane().add(emptyLabel,BorderLayout.CENTER);
 		frame.pack();
 		frame.setVisible(true);
